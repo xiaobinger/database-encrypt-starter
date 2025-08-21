@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.database</groupId>
     <artifactId>database-encrypt-starter</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>database-encrypt-starter</name>
     <description>database-encrypt-starter</description>
     <properties>
