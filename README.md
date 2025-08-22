@@ -1,5 +1,5 @@
-# encjdbc-spring-boot-starter
-集成阿里云数据库代理加密 本项目依赖的encjdbc版本为 1.0.9-3
+# database-encrypt-starter
+自定义实现数据库加密存储,可配置多种算法
 ```xml
 <dependencies>
     <dependency>
